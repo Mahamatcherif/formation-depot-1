@@ -9,3 +9,4 @@ django-admin startproject web_project .
 python manage.py migrate
 python manage.py makemigrates
 python manage.py runserver
+git commit -m "first commit" -m "projet python django crée"
